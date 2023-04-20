@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.activeNavLink {
+    margin-left: 3rem;
+    color: royalblue;
+    text-decoration: none;
+}
+
+.navLink {
+    margin-left: 3rem;
+    color: white;
+    text-decoration: none;
+}
